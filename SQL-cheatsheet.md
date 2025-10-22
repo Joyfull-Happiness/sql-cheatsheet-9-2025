@@ -62,7 +62,7 @@ The `DELETE FROM` removes rows from a table. It's also important to note that a 
 
 **Example:**
 
--- Below deletes a single movie by its primary key
+-- Below deletes a single movie by its primary key.
 
 ```sql
 SELECT *
